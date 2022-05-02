@@ -1,6 +1,6 @@
 Hey there!, My name is André Roberto and i'm a back-end developer!. 
 
--  I currently work as a software development
+-  I currently work as a software developmentz
 -  I've worked with web development using react.js , css/tailwind css/bootstrap , backend with spring boot in java and currently I study and work with android mobile development (Kotlin)
 
 <p float="left">
@@ -23,4 +23,7 @@ src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d19228
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
  
  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+ 
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ 
 </p>
