@@ -23,4 +23,6 @@ src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d19228
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+ 
+ <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
