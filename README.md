@@ -1,6 +1,6 @@
-Hey there!, My name is André Roberto and i'm a back-end developer!. 
+Hey there!, My name is André Roberto and i'm a full-stack developer!. 
 
--  I currently work as a software developmentz
+-  I currently work as a software development
 -  I've worked with web development using react.js , css/tailwind css/bootstrap , backend with spring boot in java and currently I study and work with android mobile development (Kotlin)
 
 <div align="center" style="display:flex; flex-direction:row" >
